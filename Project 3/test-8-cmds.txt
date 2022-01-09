@@ -1,0 +1,14 @@
+a 32834
+k *star*4____==Mgr*
+m 12:11:20:12:12
+s 
+c pinnacling
+a 4
+c TCP
+# This kills me
+t 12:11:20:12:12|98:69:66:02:24
+c vilification
+k Thread
+t 00:00:00:00:00|04:25:21:55:37
+k 3 
+q 

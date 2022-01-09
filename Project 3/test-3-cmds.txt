@@ -1,0 +1,18 @@
+g
+b 4
+d 5
+r
+a 5
+k join
+k  bad
+c AL  RM
+c   TCP
+l
+e 99
+k 5887
+c .
+g
+r
+d 0
+k 7
+q

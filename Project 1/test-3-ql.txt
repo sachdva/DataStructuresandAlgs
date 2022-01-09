@@ -1,0 +1,9 @@
+M
+2
+1
+//castle room 0
+#.
+S.
+//invalid character
+C.
+.p

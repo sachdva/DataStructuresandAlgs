@@ -1,0 +1,18 @@
+12:11:20:12:12|TCP| Bad packet?received (CID #8432)
+12:11:20:12:12|TCP| Bad packet?received (CID #8432)
+12:11:20:12:12|UI-PANE1|Window received focus.
+12:11:20:12:12|TCP|Bad packet received (CID #12353)
+12:11:20:12:12|DB Mgr|Sending query: "SELECT * FROM users"
+12:11:20:12:12|UI-PANE2|Window received focus.
+12:11:20:12:12|Thread|Thread #12 blocking on join call to thread #4
+12:11:20:12:12|DB Mgr|Query results received ("SELECT * FROM users")
+12:11:20:12:12|UI-PANE1|Click event served.
+12:11:20:12:12|Thread|Thread #4 acquired lock #3
+12:11:20:12:12|PGM|Beginning master election.
+12:11:20:12:12|PGM|Finished master election (master hostname=CAEN1695-p14).
+12:11:20:12:12|Thread|Thread #4 acquired lock #3
+12:11:20:12:12|Thread|Interrupt event on CPU 3
+12:11:20:12:12|Thread|Thread #12 joined on thread #4
+12:11:20:12:12|TCP|Connection to client lost. (CID #8432)
+12:11:20:12:12|ALRM|Alarm event raised by process (PID #5432)
+12:11:20:12:12|Thread|Thread #10 attempted to grab lock #3 held by thread #4
